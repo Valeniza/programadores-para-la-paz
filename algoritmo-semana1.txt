@@ -1,1 +1,13 @@
-
+Pregunta 5.
+Algoritmo dibujar y pintar en un lienzo.
+Preparar el espacio de trabajo que voy a utilizar
+Tener listos los materiales que se van a emplear
+lienzos, pinceles, lapiz, marcadores, paleta, pinturas
+Realizar el boceto 
+definir los trazos finales del boceto 
+Seleccionar los colores 
+aplicar los colores seleccionados
+culminar detalles (sombras, texturas, luces, degradados)
+Dejar al reposo la obra de arte
+limpiar los materiales
+guardar los materiales
